@@ -4671,6 +4671,7 @@ textarea.form-control-lg {
 }
 
 .card-title {
+  color: #000;
   margin-bottom: 0.5rem;
 }
 
@@ -4680,6 +4681,7 @@ textarea.form-control-lg {
 }
 
 .card-text:last-child {
+  color: #000;
   margin-bottom: 0;
 }
 
@@ -11941,3 +11943,5 @@ body {
 
 /* Carousel End
 ------------------------- */
+
+
